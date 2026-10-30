@@ -2,6 +2,18 @@
 
 A hands-on introduction to core machine learning techniques. In the guided notebook you will scale features, tune hyperparameters, and compare models with cross-validation on Titanic data. In the exercise you join a heart-related teaching dataset from PostgreSQL, check its target coding and data quality, and build a classifier for recorded disease. Finally, reload the saved Titanic pipeline, validate new inputs, and deliver predictions with an input-quality report.
 
+## Deutsche Fassung
+
+Alle Notebooks gibt es zusätzlich auf Deutsch, jeweils mit der Endung `_DE`. Die Texte stammen überwiegend aus der offiziellen deutschen Fassung von neuefische (`ds-hands-on-ml-de`), der Code aus dieser aktuellen englischen Fassung. In Notebook 1 sind acht neuere Textzellen selbst übersetzt.
+
+| Notebook | Deutsch |
+|---|---|
+| 1 Skalierung und Hyperparameter-Tuning | [1_scaling_hyperparameter_tuning_DE.ipynb](1_scaling_hyperparameter_tuning_DE.ipynb) |
+| 2 Übung: Machine Learning | [2_exercise_machine_learning_DE.ipynb](2_exercise_machine_learning_DE.ipynb) |
+| 3 Vom Training zur Vorhersage | [3_from_training_to_predictions_DE.ipynb](3_from_training_to_predictions_DE.ipynb) |
+
+Zusammengestellt mit KI-Unterstützung (Claude), nicht offiziell von neuefische. Bei Abweichungen gilt die englische Fassung.
+
 ## Learning Objectives
 
 By the end of this repository, you should be able to:
